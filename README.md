@@ -1,1 +1,1 @@
-# Engineering-Branch-Prediction-for-Indian-Students-using-GCN-Kaggle-Competition-
+# Engineering Branch Prediction for-Indian-Students using GCN (Kaggle Competition)
